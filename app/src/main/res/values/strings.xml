@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tugas 6</string>
+    <string name="hello_blank_fragment">Hello blankfragment</string>
+    <string name="swipe_left_for_register">Swipe Left forRegister</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin YourAccount</string>
+    <string name="tagRegister">Let\'s Register Your Account And\nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right forLogin</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="isi">Smartphone Smartphone adalah alat komunikasi yang dikategorikan sebagai produk mewah karena memilki kualitas yang lebih tinggi daripada perangkat ponsel umum.</string>
+    <string name="harga">7000000</string>
+    <string name="deskripsioppo">"Produsen ponsel cerdas terkemuka, Oppo adalah merek ponsel cerdas teratas di Tiongkok pada tahun 2019 dan menduduki peringkat nomor 5 di seluruh dunia. "</string>
+    <string name="harga2">500000</string>
+    <string name="deskripsisamsung">Samsung Group adalah sebuah konglomerat multinasional yang berkantor pusat di Samsung Town, Seoul, Korea Selatan. Perusahaan ini memiliki sejumlah anak usaha yang mayoritas berbisnis dengan merek Samsung, dan perusahaan ini merupakan chaebol terbesar di Korea Selatan.</string>
+    <string name="harga3">25000</string>
+    <string name="deskription_menu">Smartphone adalah alat komunikasi yang dikategorikan sebagai produk mewah karena memilki kualitas yang lebih tinggi daripada perangkat ponsel umum.</string>
+    <string name="ingredients">Diskon minggu ini 30% OFF</string>
+    <string name="price">Harga :</string>
+    <string name="Harga">Rp.1.500.000</string>
+    <string-array name="Smartphone">
+        <item>Samsung</item>
+        <item>Iphone</item>
+        <item>Oppo</item>
+    </string-array>
+    <string-array name="Star">
+        <item>5.0</item>
+        <item>4.7</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>1.250.000</item>
+        <item>1.300.000</item>
+        <item>1.400.000</item>
+    </string-array>
+</resources>
